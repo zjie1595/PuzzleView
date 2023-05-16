@@ -1,17 +1,16 @@
 package com.xiaopo.flying.photolayout;
 
 import android.graphics.Bitmap;
-
-import androidx.recyclerview.widget.RecyclerView;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.xiaopo.flying.photolayout.layout.slant.NumberSlantLayout;
-import com.xiaopo.flying.photolayout.layout.straight.NumberStraightLayout;
+import androidx.recyclerview.widget.RecyclerView;
+
 import com.xiaopo.flying.puzzle.PuzzleLayout;
 import com.xiaopo.flying.puzzle.SquarePuzzleView;
+import com.xiaopo.flying.puzzle.layout.slant.NumberSlantLayout;
+import com.xiaopo.flying.puzzle.layout.straight.NumberStraightLayout;
 
 import java.util.ArrayList;
 import java.util.List;

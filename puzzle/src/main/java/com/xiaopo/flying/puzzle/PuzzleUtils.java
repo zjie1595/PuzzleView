@@ -1,20 +1,20 @@
-package com.xiaopo.flying.photolayout;
+package com.xiaopo.flying.puzzle;
 
-import com.xiaopo.flying.photolayout.layout.slant.OneSlantLayout;
-import com.xiaopo.flying.photolayout.layout.slant.SlantLayoutHelper;
-import com.xiaopo.flying.photolayout.layout.slant.ThreeSlantLayout;
-import com.xiaopo.flying.photolayout.layout.slant.TwoSlantLayout;
-import com.xiaopo.flying.photolayout.layout.straight.EightStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.FiveStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.FourStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.NineStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.OneStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.SevenStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.SixStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.StraightLayoutHelper;
-import com.xiaopo.flying.photolayout.layout.straight.ThreeStraightLayout;
-import com.xiaopo.flying.photolayout.layout.straight.TwoStraightLayout;
-import com.xiaopo.flying.puzzle.PuzzleLayout;
+import com.xiaopo.flying.puzzle.layout.slant.OneSlantLayout;
+import com.xiaopo.flying.puzzle.layout.slant.SlantLayoutHelper;
+import com.xiaopo.flying.puzzle.layout.slant.ThreeSlantLayout;
+import com.xiaopo.flying.puzzle.layout.slant.TwoSlantLayout;
+import com.xiaopo.flying.puzzle.layout.straight.EightStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.FiveStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.FourStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.NineStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.OneStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.SevenStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.SixStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.StraightLayoutHelper;
+import com.xiaopo.flying.puzzle.layout.straight.ThreeStraightLayout;
+import com.xiaopo.flying.puzzle.layout.straight.TwoStraightLayout;
+
 import java.util.ArrayList;
 import java.util.List;
 

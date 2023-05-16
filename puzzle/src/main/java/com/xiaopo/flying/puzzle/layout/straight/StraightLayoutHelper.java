@@ -1,4 +1,4 @@
-package com.xiaopo.flying.photolayout.layout.straight;
+package com.xiaopo.flying.puzzle.layout.straight;
 
 import com.xiaopo.flying.puzzle.PuzzleLayout;
 
