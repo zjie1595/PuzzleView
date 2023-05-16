@@ -70,11 +70,11 @@ public class PuzzlePiece {
     this.tempMatrix = new Matrix();
   }
 
-  void draw(Canvas canvas, boolean quickMode) {
+  public void draw(Canvas canvas, boolean quickMode) {
     draw(canvas, 255, true, quickMode);
   }
 
-  void draw(Canvas canvas, int alpha, boolean quickMode) {
+  public void draw(Canvas canvas, int alpha, boolean quickMode) {
     draw(canvas, alpha, false, quickMode);
   }
 
